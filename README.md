@@ -2,7 +2,7 @@
 
 ### About
 
-It all started with a 2-hour high school lecture about HTML and CSS. The website we made was terrible looking, but the point was to learn the basics. I was curious how to make it aesthetically pleasing, so I started learning HTML and CSS everyday after coming back from school.
+It all started with a 2-hour high school lecture about HTML and CSS. The webpage we made was terrible looking, but the point was to learn the basics. I was curious how to make it aesthetically pleasing, so I started learning HTML and CSS everyday after coming back from school.
 
 ~ Passionate about learning technology since then.
 
