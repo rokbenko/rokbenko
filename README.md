@@ -1,6 +1,6 @@
-## Hi, I'm Rok! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 20px>
+## About
 
-### About
+Hi, I'm Rok! <img src = "./wave.gif" width="20" />
 
 It all started with a 2-hour high school lecture about HTML and CSS. The webpage we made was terrible looking, but the point was to learn the basics. I was curious how to make it aesthetically pleasing, so I started learning HTML and CSS everyday after coming back from school.
 
