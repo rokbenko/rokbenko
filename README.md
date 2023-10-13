@@ -10,7 +10,7 @@ It all started with a 2-hour high school lecture about HTML and CSS. The webpage
 
 ---
 
-<a href="https://stackoverflow.com/users/10347145/">
+<a href="https://stackoverflow.com/users/10347145/rok-benko?tab=profile">
   <img align="left" alt="Rok's LinkedIn" width="20px" src="https://simpleicons.now.sh/stackoverflow/495f7e" />
 </a>
 
