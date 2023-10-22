@@ -1,4 +1,4 @@
-## About
+# About
 
 Hi, I'm Rok! <img src = "./wave.gif" width="20" />
 
