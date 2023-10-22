@@ -6,8 +6,8 @@ It all started with a 2-hour high school lecture about HTML and CSS. The webpage
 
 ~ Passionate about learning technology since then.
 
-![rokbenko's Stats](https://github-readme-stats.vercel.app/api?username=rokbenko&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![rokbenko's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rokbenko&theme=dark&hide_border=true)
+![rokbenko's Stats](https://github-readme-stats.vercel.app/api?username=rokbenko&theme=dark&show_icons=true&hide_border=true&count_private=true)<br>
+![rokbenko's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rokbenko&theme=dark&hide_border=true)<br>
 ![rokbenko's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rokbenko&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ---
