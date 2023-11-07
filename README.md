@@ -9,9 +9,13 @@ It all started with a 2-hour high school lecture about HTML and CSS. The webpage
 ---
 
 <a href="https://stackoverflow.com/users/10347145/rok-benko?tab=profile">
-  <img align="left" alt="Rok's LinkedIn" width="20px" src="https://simpleicons.now.sh/stackoverflow/495f7e" />
+  <img align="left" alt="Rok's StackOverflow" width="20px" src="https://simpleicons.now.sh/stackoverflow/495f7e" />
 </a>
 
 <a href="https://www.linkedin.com/in/rokbenko/">
   <img align="left" alt="Rok's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
+</a>
+
+<a href="https://www.youtube.com/@codewithrok">
+  <img align="left" alt="Rok's YouTube" width="20px" src="https://simpleicons.now.sh/youtube/495f7e" />
 </a>
