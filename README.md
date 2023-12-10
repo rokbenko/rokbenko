@@ -5,7 +5,7 @@ It all started with a 2-hour high school lecture about HTML and CSS. The webpage
 ~ Passionate about learning technology since then. 🚀
 
 > [!NOTE]
-> Are you a more visual type of person? 👀 ⟶ <a href="https://www.youtube.com/@codewithrok" target="_blank">Code OpenAI API with Rok</a>
+> Are you a more visual type of person? 👀 ⟶ <a href="https://www.youtube.com/@codewithrok" target="_blank">Code with Rok</a>
 
 <br>
 
