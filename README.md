@@ -18,7 +18,11 @@ I'm the <a href="https://stackoverflow.com/tags/openai-api/topusers" target="_bl
 
 <br>
 
-![rokbenko's Top Languages](https://github-readme-stats-kohl-rho-75.vercel.app/api/top-langs/?username=rokbenko&theme=dark&show_icons=true&hide_border=true&layout=compact)
+<div style="display: flex; flex-direction: row;">
+ <img alt="rokbenko's Stats" src="https://github-readme-stats.vercel.app/api?username=rokbenko&theme=dark&show_icons=true&hide_border=true&count_private=true" />
+ <img alt="rokbenko's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rokbenko&theme=dark&hide_border=true" />
+ <img alt="rokbenko's Top Languages" src="https://github-readme-stats-kohl-rho-75.vercel.app/api/top-langs/?username=rokbenko&theme=dark&show_icons=true&hide_border=true&layout=compact" />
+</div>
 
 ---
 
