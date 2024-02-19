@@ -9,6 +9,20 @@ It all started with a 2-hour high school lecture about HTML and CSS. The webpage
 
 <br>
 
+![Visual Studio Code badge](https://img.shields.io/badge/Visual%20Studio%20Code-%23202020?style=flat&logo=visualstudiocode&logoColor=%232596be)
+![Python badge](https://img.shields.io/badge/Python-%23202020?style=flat&logo=python)
+![Jupyter Notebook badge](https://img.shields.io/badge/Jupyter%20Notebook-%23202020?style=flat&logo=jupyter)
+![JavaScript badge](https://img.shields.io/badge/JavaScript-%23202020?style=flat&logo=javascript)
+![Node.js badge](https://img.shields.io/badge/Node.js-%23202020?style=flat&logo=nodedotjs)
+![Next.js badge](https://img.shields.io/badge/Next.js-%23202020?style=flat&logo=nextdotjs)
+![Docker badge](https://img.shields.io/badge/Docker-%23202020?style=flat&logo=docker)
+![OpenAI badge](https://img.shields.io/badge/OpenAI-%23202020?style=flat&logo=openai)
+![spaCy badge](https://img.shields.io/badge/spaCy-%23202020?style=flat&logo=spacy)
+![PostgreSQL badge](https://img.shields.io/badge/PostgreSQL-%23202020?style=flat&logo=postgresql)
+![Milvus badge](https://img.shields.io/badge/Milvus-%23202020?style=flat&logo=milvus)
+
+<br>
+
 🏆 I'm the <a href="https://stackoverflow.com/tags/openai-api/topusers" target="_blank">Top answerer of **all time** for OpenAI API questions</a> on StackOverflow 🏆
 
  - <a href="https://stackoverflow.com/help/badges/11780/openai-api" target="_blank">1st user on StackOverflow</a> to earn the 🥈 silver `openai-api` badge. [25 August 2023]
