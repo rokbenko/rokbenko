@@ -9,8 +9,8 @@ It all started with a 2-hour high school lecture about HTML and CSS. The webpage
 
 <br>
 
-![Visual Studio Code badge](https://img.shields.io/badge/Visual%20Studio%20Code-%23202020?style=flat&logo=visualstudiocode&logoColor=%232596be)
 ![Windows badge](https://img.shields.io/badge/Windows-%23202020?style=flat&logo=windows10)
+![Visual Studio Code badge](https://img.shields.io/badge/Visual%20Studio%20Code-%23202020?style=flat&logo=visualstudiocode&logoColor=%232596be)
 ![HTML badge](https://img.shields.io/badge/HTML-%23202020?style=flat&logo=html5)
 ![SCSS badge](https://img.shields.io/badge/SCSS-%23202020?style=flat&logo=sass)
 ![Tailwind CSS badge](https://img.shields.io/badge/Tailwind%20CSS-%23202020?style=flat&logo=tailwindcss)
@@ -18,13 +18,14 @@ It all started with a 2-hour high school lecture about HTML and CSS. The webpage
 ![JavaScript badge](https://img.shields.io/badge/JavaScript-%23202020?style=flat&logo=javascript)
 ![Node.js badge](https://img.shields.io/badge/Node.js-%23202020?style=flat&logo=nodedotjs)
 ![Next.js badge](https://img.shields.io/badge/Next.js-%23202020?style=flat&logo=nextdotjs)
-![OpenAI badge](https://img.shields.io/badge/OpenAI-%23202020?style=flat&logo=openai)
+![PostgreSQL badge](https://img.shields.io/badge/PostgreSQL-%23202020?style=flat&logo=postgresql)
 ![Python badge](https://img.shields.io/badge/Python-%23202020?style=flat&logo=python)
 ![Jupyter Notebook badge](https://img.shields.io/badge/Jupyter%20Notebook-%23202020?style=flat&logo=jupyter)
+![Streamlit badge](https://img.shields.io/badge/Streamlit-%23202020?logo=streamlit)
+![OpenAI badge](https://img.shields.io/badge/OpenAI-%23202020?style=flat&logo=openai)
 ![spaCy badge](https://img.shields.io/badge/spaCy-%23202020?style=flat&logo=spacy)
-![PostgreSQL badge](https://img.shields.io/badge/PostgreSQL-%23202020?style=flat&logo=postgresql)
-![Milvus badge](https://img.shields.io/badge/Milvus-%23202020?style=flat&logo=milvus)
 ![Docker badge](https://img.shields.io/badge/Docker-%23202020?style=flat&logo=docker)
+![Milvus badge](https://img.shields.io/badge/Milvus-%23202020?style=flat&logo=milvus)
 
 <br>
 
