@@ -53,6 +53,6 @@ It all started with a 2-hour high school lecture about HTML and CSS. The webpage
   <img align="left" alt="Rok's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
 
-<a href="https://www.youtube.com/@codewithrok" target="_blank">
+<a href="https://www.youtube.com/@CodeAIwithRok" target="_blank">
   <img align="left" alt="Rok's YouTube" width="20px" src="https://simpleicons.now.sh/youtube/495f7e" />
 </a>
