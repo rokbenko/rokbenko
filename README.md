@@ -5,7 +5,7 @@ It all started with a 2-hour high school lecture about HTML and CSS. The webpage
 ~ Passionate about learning technology since then. 🚀
 
 > [!IMPORTANT]
-> Are you a more visual type of person? 👀 ⟶ Visit the <a href="https://www.youtube.com/@codewithrok" target="_blank">Code with Rok</a> YouTube channel
+> Are you a more visual type of person? 👀 ⟶ Visit the <a href="https://www.youtube.com/@codewithrok" target="_blank">Code AI with Rok</a> YouTube channel
 
 <br>
 
