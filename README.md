@@ -17,6 +17,7 @@ It all started with a 2-hour high school lecture about HTML and CSS. The webpage
 ![Bootstrap badge](https://img.shields.io/badge/Bootstrap-%23202020?style=flat&logo=bootstrap)
 ![JavaScript badge](https://img.shields.io/badge/JavaScript-%23202020?style=flat&logo=javascript)
 ![Node.js badge](https://img.shields.io/badge/Node.js-%23202020?style=flat&logo=nodedotjs)
+![React badge](https://img.shields.io/badge/React-%23202020?style=flat&logo=react)
 ![Next.js badge](https://img.shields.io/badge/Next.js-%23202020?style=flat&logo=nextdotjs)
 ![PostgreSQL badge](https://img.shields.io/badge/PostgreSQL-%23202020?style=flat&logo=postgresql)
 ![Supabase](https://img.shields.io/badge/Supabase-%23202020?style=flat&logo=supabase)
