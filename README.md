@@ -5,7 +5,11 @@ It all started with a 2-hour high school lecture about HTML and CSS. The webpage
 ~ Passionate about learning technology since then. 🚀
 
 > [!IMPORTANT]
-> Are you a more visual type of person? 👀 ⟶ Visit the <a href="https://www.youtube.com/@CodeAIwithRok" target="_blank">Code AI with Rok</a> YouTube channel
+> Are you a more visual type of person? 👀 ⟶ Visit the <a href="https://www.youtube.com/@CodeAIwithRok" target="_blank">Code AI with Rok</a> YouTube channel.
+
+**Do you want to support me? 👉 <a href="https://www.patreon.com/rokbenko">Join my community</a>.**
+
+<br>
 
 🏆 I'm the <a href="https://stackoverflow.com/tags/openai-api/topusers" target="_blank">Top answerer of **all time** for OpenAI API questions</a> on StackOverflow 🏆
 
@@ -26,15 +30,13 @@ It all started with a 2-hour high school lecture about HTML and CSS. The webpage
 | Containerization | ![Docker badge](https://img.shields.io/badge/Docker-%23202020?style=flat&logo=docker) |
 | AI | ![Python badge](https://img.shields.io/badge/Python-%23202020?style=flat&logo=python) ![Jupyter Notebook badge](https://img.shields.io/badge/Jupyter%20Notebook-%23202020?style=flat&logo=jupyter) |
 
-<br>
-
 <img alt="rokbenko's Stats" src="https://github-readme-stats.vercel.app/api?username=rokbenko&theme=dark&show_icons=true&hide_border=true&count_private=true" />
 <img alt="rokbenko's Top Languages" src="https://github-readme-stats-kohl-rho-75.vercel.app/api/top-langs/?username=rokbenko&theme=dark&show_icons=true&hide_border=true&layout=compact" />
 
 ---
 
-<a href="https://stackoverflow.com/users/10347145/rok-benko?tab=profile" target="_blank">
-  <img align="left" alt="Rok's StackOverflow" width="20px" src="https://simpleicons.now.sh/stackoverflow/495f7e" />
+<a href="https://linktr.ee/rokbenko">
+  <img align="left" alt="Rok's Linktree" width="20px" src="https://simpleicons.now.sh/linktree/495f7e" />
 </a>
 
 <a href="https://www.linkedin.com/in/rokbenko/" target="_blank">
@@ -43,4 +45,12 @@ It all started with a 2-hour high school lecture about HTML and CSS. The webpage
 
 <a href="https://www.youtube.com/@CodeAIwithRok" target="_blank">
   <img align="left" alt="Rok's YouTube" width="20px" src="https://simpleicons.now.sh/youtube/495f7e" />
+</a>
+
+<a href="https://stackoverflow.com/users/10347145" target="_blank">
+  <img align="left" alt="Rok's StackOverflow" width="20px" src="https://simpleicons.now.sh/stackoverflow/495f7e" />
+</a>
+
+<a href="https://www.patreon.com/rokbenko">
+  <img align="left" alt="Rok's Patreon" width="20px" src="https://simpleicons.now.sh/patreon/495f7e" />
 </a>
