@@ -35,20 +35,16 @@ It all started with a 2-hour high school lecture about HTML and CSS. The webpage
 
 ---
 
-<a href="https://linktr.ee/rokbenko">
-  <img align="left" alt="Rok's Linktree" width="20px" src="https://simpleicons.now.sh/linktree/495f7e" />
-</a>
-
 <a href="https://www.linkedin.com/in/rokbenko/" target="_blank">
   <img align="left" alt="Rok's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
 
-<a href="https://www.youtube.com/@CodeAIwithRok" target="_blank">
-  <img align="left" alt="Rok's YouTube" width="20px" src="https://simpleicons.now.sh/youtube/495f7e" />
-</a>
-
 <a href="https://stackoverflow.com/users/10347145" target="_blank">
   <img align="left" alt="Rok's StackOverflow" width="20px" src="https://simpleicons.now.sh/stackoverflow/495f7e" />
+</a>
+
+<a href="https://www.youtube.com/@CodeAIwithRok" target="_blank">
+  <img align="left" alt="Rok's YouTube" width="20px" src="https://simpleicons.now.sh/youtube/495f7e" />
 </a>
 
 <a href="https://www.patreon.com/rokbenko">
