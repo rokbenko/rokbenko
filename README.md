@@ -29,6 +29,7 @@ It all started with a 2-hour high school lecture about HTML and CSS. The webpage
 | Database | ![PostgreSQL badge](https://img.shields.io/badge/PostgreSQL-%23202020?style=flat&logo=postgresql) ![Supabase](https://img.shields.io/badge/Supabase-%23202020?style=flat&logo=supabase) ![Milvus badge](https://img.shields.io/badge/Milvus-%23202020?style=flat&logo=milvus) |
 | Containerization | ![Docker badge](https://img.shields.io/badge/Docker-%23202020?style=flat&logo=docker) |
 | AI | ![Python badge](https://img.shields.io/badge/Python-%23202020?style=flat&logo=python) ![Jupyter Notebook badge](https://img.shields.io/badge/Jupyter%20Notebook-%23202020?style=flat&logo=jupyter) |
+| Testing | ![Playwright badge](https://img.shields.io/badge/Playwright-%23202020?style=flat&logo=playwright) |
 
 <img alt="rokbenko's Stats" src="https://github-readme-stats.vercel.app/api?username=rokbenko&theme=dark&show_icons=true&hide_border=true&count_private=true" />
 <img alt="rokbenko's Top Languages" src="https://github-readme-stats-kohl-rho-75.vercel.app/api/top-langs/?username=rokbenko&theme=dark&show_icons=true&hide_border=true&layout=compact" />
