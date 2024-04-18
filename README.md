@@ -32,7 +32,7 @@ It all started with a 2-hour high school lecture about HTML and CSS. The webpage
 | Testing | ![Playwright badge](https://img.shields.io/badge/Playwright-%23202020?style=flat&logo=playwright) |
 
 <img alt="rokbenko's Stats" src="https://github-readme-stats.vercel.app/api?username=rokbenko&theme=dark&show_icons=true&hide_border=true&count_private=true" />
-<img alt="rokbenko's Top Languages" src="https://github-readme-stats-kohl-rho-75.vercel.app/api/top-langs/?username=rokbenko&theme=dark&show_icons=true&hide_border=true&layout=compact" />
+<img alt="rokbenko's Top Languages" src="https://rokbenko-stats.vercel.app/api/top-langs/?username=rokbenko&theme=dark&show_icons=true&hide_border=true&layout=compact" />
 
 ---
 
