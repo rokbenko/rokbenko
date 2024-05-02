@@ -4,7 +4,7 @@ It all started with a 2-hour high school lecture about HTML and CSS. The website
 
 ~ Passionate about learning technology since then. 🚀
 
-> [!IMPORTANT]
+> [!TIP]
 > Are you a more visual type of person? 👀 ⟶ Visit the <a href="https://www.youtube.com/@CodeAIwithRok" target="_blank">Code AI with Rok</a> YouTube channel.
 
 **Do you want to support me? 👉 <a href="https://www.patreon.com/rokbenko">Join my community</a>.**
