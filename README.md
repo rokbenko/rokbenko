@@ -2,12 +2,11 @@ Hi, I'm Rok! <img src = "./wave.gif" width="20" />
 
 It all started with a 2-hour high school lecture about HTML and CSS. The website we made was terrible-looking, but the point was to learn the basics. I was curious how to make it aesthetically pleasing, so I started learning HTML and CSS every day after coming back from school.
 
-~ Passionate about learning technology since then. 🚀
+Passionate about learning technology since then. 🚀
 
 > [!TIP]
-> Are you a more visual type of person? 👀 ⟶ Visit the <a href="https://www.youtube.com/@CodeAIwithRok" target="_blank">Code AI with Rok</a> YouTube channel.
-
-**Do you want to support me? 👉 <a href="https://www.patreon.com/rokbenko">Join my community</a>.**
+> Are you a more visual type of person? 👉 Visit the <a href="https://www.youtube.com/@rokbenko?sub_confirmation=1" target="_blank">Code AI with Rok</a> YouTube channel.<br>
+> Do you want to support me? 👉 Join my <a href="https://www.patreon.com/rokbenko">community</a>.
 
 <br>
 
@@ -20,7 +19,7 @@ It all started with a 2-hour high school lecture about HTML and CSS. The website
 
 <br>
 
-| - | - |
+| Category | Technologies |
 | - | - |
 | Environment | ![Windows badge](https://img.shields.io/badge/Windows-%23202020?style=flat&logo=windows10) |
 | IDE | ![Visual Studio Code badge](https://img.shields.io/badge/Visual%20Studio%20Code-%23202020?style=flat&logo=visualstudiocode&logoColor=%232596be) |
@@ -41,10 +40,10 @@ It all started with a 2-hour high school lecture about HTML and CSS. The website
 </a>
 
 <a href="https://stackoverflow.com/users/10347145" target="_blank">
-  <img align="left" alt="Rok's StackOverflow" width="20px" src="https://simpleicons.now.sh/stackoverflow/495f7e" />
+  <img align="left" alt="Rok's Stack Overflow" width="20px" src="https://simpleicons.now.sh/stackoverflow/495f7e" />
 </a>
 
-<a href="https://www.youtube.com/@CodeAIwithRok" target="_blank">
+<a href="https://www.youtube.com/@rokbenko?sub_confirmation=1" target="_blank">
   <img align="left" alt="Rok's YouTube" width="20px" src="https://simpleicons.now.sh/youtube/495f7e" />
 </a>
 
