@@ -29,6 +29,7 @@ Passionate about learning technology since then. 🚀
 | Databases | ![PostgreSQL badge](https://img.shields.io/badge/PostgreSQL-%23202020?style=flat&logo=postgresql) ![Supabase](https://img.shields.io/badge/Supabase-%23202020?style=flat&logo=supabase) ![Milvus badge](https://img.shields.io/badge/Milvus-%23202020?style=flat&logo=milvus) |
 | Containerization | ![Docker badge](https://img.shields.io/badge/Docker-%23202020?style=flat&logo=docker) |
 | Testing | ![Playwright badge](https://img.shields.io/badge/Playwright-%23202020?style=flat&logo=playwright) |
+| VCS | ![Git badge](https://img.shields.io/badge/Git-%23202020?style=flat&logo=git) |
 
 <img alt="rokbenko's Stats" src="https://github-readme-stats.vercel.app/api?username=rokbenko&theme=dark&show_icons=true&hide_border=true&count_private=true" />
 <img alt="rokbenko's Top Languages" src="https://rokbenko-stats.vercel.app/api/top-langs/?username=rokbenko&theme=dark&show_icons=true&hide_border=true&layout=compact" />
