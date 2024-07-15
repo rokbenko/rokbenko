@@ -5,8 +5,7 @@ It all started with a 2-hour high school lecture about HTML and CSS. The website
 Passionate about learning technology since then. 🚀
 
 > [!TIP]
-> Are you a more visual type of person? 👉 Visit the <a href="https://www.youtube.com/@rokbenko?sub_confirmation=1" target="_blank">Code AI with Rok</a> YouTube channel.<br>
-> Do you want to support me? 👉 Join my <a href="https://www.patreon.com/rokbenko">community</a>.
+> Are you a more visual type of person? 👉 Visit the <a href="https://www.youtube.com/@rokbenko?sub_confirmation=1" target="_blank">Code AI with Rok</a> YouTube channel.
 
 <br>
 
@@ -26,7 +25,7 @@ Passionate about learning technology since then. 🚀
 | Frontend | ![HTML badge](https://img.shields.io/badge/HTML-%23202020?style=flat&logo=html5) ![SCSS badge](https://img.shields.io/badge/SCSS-%23202020?style=flat&logo=sass) ![Tailwind CSS badge](https://img.shields.io/badge/Tailwind%20CSS-%23202020?style=flat&logo=tailwindcss) ![JavaScript badge](https://img.shields.io/badge/JavaScript-%23202020?style=flat&logo=javascript) ![TypeScript badge](https://img.shields.io/badge/TypeScript-%23202020?style=flat&logo=typescript) ![React badge](https://img.shields.io/badge/React-%23202020?style=flat&logo=react) ![Next.js badge](https://img.shields.io/badge/Next.js-%23202020?style=flat&logo=nextdotjs) ![Material UI badge](https://img.shields.io/badge/Material%20UI-%23202020?style=flat&logo=mui) ![Streamlit badge](https://img.shields.io/badge/Streamlit-%23202020?style=flat&logo=streamlit) |
 | Backend | ![Node.js badge](https://img.shields.io/badge/Node.js-%23202020?style=flat&logo=nodedotjs) |
 | General | ![Python badge](https://img.shields.io/badge/Python-%23202020?style=flat&logo=python) |
-| Databases | ![PostgreSQL badge](https://img.shields.io/badge/PostgreSQL-%23202020?style=flat&logo=postgresql) ![Supabase](https://img.shields.io/badge/Supabase-%23202020?style=flat&logo=supabase) ![Milvus badge](https://img.shields.io/badge/Milvus-%23202020?style=flat&logo=milvus) |
+| Databases | ![PostgreSQL badge](https://img.shields.io/badge/PostgreSQL-%23202020?style=flat&logo=postgresql) ![Supabase](https://img.shields.io/badge/Supabase-%23202020?style=flat&logo=supabase) ![Milvus badge](https://img.shields.io/badge/Milvus-%23202020?style=flat&logo=milvus) ![Weaviate badge](https://img.shields.io/badge/Weaviate-%23202020?style=flat&logo=weaviate) |
 | Containerization | ![Docker badge](https://img.shields.io/badge/Docker-%23202020?style=flat&logo=docker) |
 | Testing | ![Playwright badge](https://img.shields.io/badge/Playwright-%23202020?style=flat&logo=playwright) |
 | VCS | ![Git badge](https://img.shields.io/badge/Git-%23202020?style=flat&logo=git) |
@@ -40,14 +39,10 @@ Passionate about learning technology since then. 🚀
   <img align="left" alt="Rok's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
 
-<a href="https://stackoverflow.com/users/10347145" target="_blank">
-  <img align="left" alt="Rok's Stack Overflow" width="20px" src="https://simpleicons.now.sh/stackoverflow/495f7e" />
-</a>
-
 <a href="https://www.youtube.com/@rokbenko?sub_confirmation=1" target="_blank">
   <img align="left" alt="Rok's YouTube" width="20px" src="https://simpleicons.now.sh/youtube/495f7e" />
 </a>
 
-<a href="https://www.patreon.com/rokbenko">
-  <img align="left" alt="Rok's Patreon" width="20px" src="https://simpleicons.now.sh/patreon/495f7e" />
+<a href="https://stackoverflow.com/users/10347145" target="_blank">
+  <img align="left" alt="Rok's Stack Overflow" width="20px" src="https://simpleicons.now.sh/stackoverflow/495f7e" />
 </a>
