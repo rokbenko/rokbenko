@@ -9,12 +9,12 @@ Passionate about learning technology since then. 🚀
 
 <br>
 
-🏆 I'm the <a href="https://stackoverflow.com/tags/openai-api/topusers" target="_blank">Top answerer of **all time** for OpenAI API questions</a> on StackOverflow 🏆
+🏆 I'm the <a href="https://stackoverflow.com/tags/openai-api/topusers" target="_blank">Top answerer of **all time** for OpenAI API questions</a> on Stack Overflow 🏆
 
- - <a href="https://stackoverflow.com/help/badges/11780/openai-api" target="_blank">1st user on StackOverflow</a> to earn the 🥈 silver `openai-api` badge. [25 August 2023]
-   - <a href="https://stackoverflow.com/help/badges/11599/openai-api" target="_blank">1st user on StackOverflow</a> to earn the 🥉 bronze `openai-api` badge. [30 March 2023]
- - <a href="https://stackoverflow.com/help/badges/11662/chatgpt-api" target="_blank">1st user on StackOverflow</a> to earn the 🥉 bronze `chatgpt-api` badge. [11 May 2023]
- - <a href="https://stackoverflow.com/help/badges/11661/gpt-3" target="_blank">1st user on StackOverflow</a> to earn the 🥉 bronze `gpt-3` badge. [16 May 2023]
+ - <a href="https://stackoverflow.com/help/badges/11780/openai-api" target="_blank">1st user on Stack Overflow</a> to earn the 🥈 silver `openai-api` badge. [25 August 2023]
+   - <a href="https://stackoverflow.com/help/badges/11599/openai-api" target="_blank">1st user on Stack Overflow</a> to earn the 🥉 bronze `openai-api` badge. [30 March 2023]
+ - <a href="https://stackoverflow.com/help/badges/11662/chatgpt-api" target="_blank">1st user on Stack Overflow</a> to earn the 🥉 bronze `chatgpt-api` badge. [11 May 2023]
+ - <a href="https://stackoverflow.com/help/badges/11661/gpt-3" target="_blank">1st user on Stack Overflow</a> to earn the 🥉 bronze `gpt-3` badge. [16 May 2023]
 
 <br>
 
