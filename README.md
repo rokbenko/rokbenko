@@ -5,7 +5,8 @@ It all started with a 2-hour high school lecture about HTML and CSS. The website
 Passionate about learning technology since then. 🚀
 
 > [!TIP]
-> Are you a more visual type of person? 👉 Visit the <a href="https://www.youtube.com/@rokbenko?sub_confirmation=1" target="_blank">Code AI with Rok</a> YouTube channel.
+> Are you a more visual type of person? 👉 Visit my <a href="https://www.youtube.com/@rokbenko?sub_confirmation=1" target="_blank">Code AI with Rok</a> YouTube channel.<br>
+> Want to become an OpenAI API hero from 0? 👉 Visit my <a href="https://rok-benko-s-school.teachable.com/p/home" target="_blank">Academy</a>.
 
 <br>
 
@@ -32,17 +33,3 @@ Passionate about learning technology since then. 🚀
 
 <img alt="rokbenko's Stats" src="https://github-readme-stats.vercel.app/api?username=rokbenko&theme=dark&show_icons=true&hide_border=true&count_private=true" />
 <img alt="rokbenko's Top Languages" src="https://rokbenko-stats.vercel.app/api/top-langs/?username=rokbenko&theme=dark&show_icons=true&hide_border=true&layout=compact" />
-
----
-
-<a href="https://www.linkedin.com/in/rokbenko/" target="_blank">
-  <img align="left" alt="Rok's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
-</a>
-
-<a href="https://www.youtube.com/@rokbenko?sub_confirmation=1" target="_blank">
-  <img align="left" alt="Rok's YouTube" width="20px" src="https://simpleicons.now.sh/youtube/495f7e" />
-</a>
-
-<a href="https://stackoverflow.com/users/10347145" target="_blank">
-  <img align="left" alt="Rok's Stack Overflow" width="20px" src="https://simpleicons.now.sh/stackoverflow/495f7e" />
-</a>
