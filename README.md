@@ -6,7 +6,7 @@ Passionate about learning technology since then. 🚀
 
 > [!TIP]
 > Are you a more visual type of person? 👉 Watch my <a href="https://www.youtube.com/@rokbenko?sub_confirmation=1" target="_blank">Code AI with Rok</a> YouTube channel.<br>
-> Want to become an OpenAI API hero from 0? 👉 Enroll in my <a href="https://rok-benko-s-school.teachable.com/p/home" target="_blank">courses</a>.
+> Are you interested in becoming an OpenAI API hero from zero? 👉 Enroll in my <a href="https://rok-benko-s-school.teachable.com/p/home" target="_blank">courses</a>.
 
 <br>
 
