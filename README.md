@@ -10,7 +10,7 @@ Passionate about learning technology since then. 🚀
 
 <br>
 
-🏆 I'm the <a href="https://stackoverflow.com/tags/openai-api/topusers" target="_blank">#1 OpenAI API contributor on Stack Overflow</a>, having reached over 1.9 million developers! 🏆
+🏆 I'm the <a href="https://stackoverflow.com/tags/openai-api/topusers" target="_blank">#1 OpenAI API contributor on Stack Overflow</a>, having reached over 2 million developers! 🏆
 
  - <a href="https://stackoverflow.com/help/badges/11780/openai-api" target="_blank">1st user on Stack Overflow</a> to earn the 🥈 silver `openai-api` badge. [25 August 2023]
    - <a href="https://stackoverflow.com/help/badges/11599/openai-api" target="_blank">1st user on Stack Overflow</a> to earn the 🥉 bronze `openai-api` badge. [30 March 2023]
