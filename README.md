@@ -1,27 +1,18 @@
 Hi, I'm Rok! <img src = "./wave.gif" width="20" />
 
-It all started with a 2-hour high school lecture about HTML and CSS. The website we made was terrible-looking, but the point was to learn the basics. I was curious how to make it aesthetically pleasing, so I started learning HTML and CSS every day after coming back from school.
+I’m a self-taught developer whose tech journey was defined by two key "wow" moments that shaped my life and led me to pursue a career in tech, even though I completed a Master's in economics.
 
-Passionate about learning technology since then. 🚀
+The first was in 2017 during high school, in a 2-hour class on HTML and CSS. My class created a basic website and opened it in a browser. “Wait, you can make a website with just one HTML file???” That simple realization sparked my curiosity, and I started learning HTML and CSS every day after school.
 
-> [!TIP]
-> Are you a more visual type of person? 👉 Watch my <a href="https://www.youtube.com/@rokbenko?sub_confirmation=1" target="_blank">Code AI with Rok</a> YouTube channel.<br>
-> Are you interested in becoming an OpenAI API hero from zero? 👉 Enroll in my <a href="https://rok-benko-s-school.teachable.com/p/home" target="_blank">courses</a>.
+The second was in 2022, when I made my first OpenAI API call to the GPT-3 model, which was SOTA at the time (crazy how rapidly AI is evolving, huh?). I asked it, “Who’s Einstein?” and was amazed by the response. "How the hell does AI know that???" This experience introduced me to the world of AI, where I quickly became an active community contributor. In 2023, I achieved the title of the <a href="https://stackoverflow.com/tags/openai-api/topusers" target="_blank">#1 OpenAI API contributor</a> on Stack Overflow, and in 2024, I earned the title of the <a href="https://community.crewai.com/leaderboard" target="_blank">#1 CrewAI contributor</a> on the official Discourse forum.
 
-<br>
+What’s funny is that those two moments found me, not the other way around. I came across HTML by enrolling in an Informatics course, not knowing it included 2 hours of HTML. As for OpenAI, I first heard about it while listening to a podcast.
 
-🏆 I'm the <a href="https://stackoverflow.com/tags/openai-api/topusers" target="_blank">#1 OpenAI contributor on Stack Overflow</a>, having reached over 2 million developers. 🏆
-
- - <a href="https://stackoverflow.com/help/badges/11780/openai-api" target="_blank">1st user on Stack Overflow</a> to earn the 🥈 silver `openai-api` badge. [25 August 2023]
-   - <a href="https://stackoverflow.com/help/badges/11599/openai-api" target="_blank">1st user on Stack Overflow</a> to earn the 🥉 bronze `openai-api` badge. [30 March 2023]
- - <a href="https://stackoverflow.com/help/badges/11662/chatgpt-api" target="_blank">1st user on Stack Overflow</a> to earn the 🥉 bronze `chatgpt-api` badge. [11 May 2023]
- - <a href="https://stackoverflow.com/help/badges/11661/gpt-3" target="_blank">1st user on Stack Overflow</a> to earn the 🥉 bronze `gpt-3` badge. [16 May 2023]
-
-🏆 I'm the <a href="https://community.crewai.com/leaderboard" target="_blank">#1 CrewAI contributor on the official forum</a>. 🏆
+Today, I work as an <a href="https://www.linkedin.com/in/rokbenko">AI Engineer</a> at a Stealth Startup while also sharing my knowledge through my YouTube channel, <a href="https://www.youtube.com/@rokbenko?sub_confirmation=1" target="_blank">Code AI with Rok</a>, where I create practical coding tutorials related to AI. No theory (without showing the code). No fluff. No clickbaits. All my work is available in my GitHub repository, <a href="https://github.com/rokbenko/ai-playground">ai-playground</a>, demonstrating my commitment to both learning and teaching in the tech community.
 
 <br>
 
-| Category | Technologies |
+| Category | Tech |
 | - | - |
 | OS | ![Windows badge](https://img.shields.io/badge/Windows-%23202020?style=flat&logo=windows10) |
 | IDE | ![Visual Studio Code + Codeium badge](https://img.shields.io/badge/Visual%20Studio%20Code%20+%20Codeium-%23202020?style=flat&logo=codeium&logoColor=%2371e9d8) ![Cursor badge](https://img.shields.io/badge/Cursor-%23202020?style=flat&logo=cursor) |
