@@ -27,7 +27,7 @@ All my work is available in my GitHub repository, <a href="https://github.com/ro
 | Backend | ![Node.js badge](https://img.shields.io/badge/Node.js-%23202020?style=flat&logo=nodedotjs) |
 | General | ![Python badge](https://img.shields.io/badge/Python-%23202020?style=flat&logo=python) |
 | LLMs | ![OpenAI badge](https://img.shields.io/badge/OpenAI-%23202020?style=flat&logo=openai) ![Anthropic badge](https://img.shields.io/badge/Anthropic-%23202020?style=flat&logo=anthropic&logoColor=%23cc9b7a) ![Mistral AI badge](https://img.shields.io/badge/Mistral-%23202020?style=flat&logo=mistralai) ![Llama badge](https://img.shields.io/badge/Llama-%23202020?style=flat&logo=meta&logoColor=%230080FB) |
-| AI | ![LangChain badge](https://img.shields.io/badge/LangChain-%23202020?style=flat&logo=langchain&logoColor=%23beb4fd) ![LlamaIndex badge](https://img.shields.io/badge/LlamaIndex-%23202020?style=flat&logo=llamaindex) ![CrewAI badge](https://img.shields.io/badge/CrewAI-%23202020?style=flat&logo=crewai) |
+| AI | ![LangChain badge](https://img.shields.io/badge/LangChain-%23202020?style=flat&logo=langchain&logoColor=%23beb4fd) ![CrewAI badge](https://img.shields.io/badge/CrewAI-%23202020?style=flat&logo=crewai) |
 | NLP | ![spaCy badge](https://img.shields.io/badge/spaCy-%23202020?style=flat&logo=spacy) |
 | DBs | ![PostgreSQL badge](https://img.shields.io/badge/PostgreSQL-%23202020?style=flat&logo=postgresql) ![Supabase](https://img.shields.io/badge/Supabase-%23202020?style=flat&logo=supabase) ![Milvus badge](https://img.shields.io/badge/Milvus-%23202020?style=flat&logo=milvus) |
 | Containerization | ![Docker badge](https://img.shields.io/badge/Docker-%23202020?style=flat&logo=docker) |
