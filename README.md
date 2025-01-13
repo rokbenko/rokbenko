@@ -34,5 +34,7 @@ All my work is available in my GitHub repository, <a href="https://github.com/ro
 | Testing | ![Playwright badge](https://img.shields.io/badge/Playwright-%23202020?style=flat&logo=playwright) |
 | VCS | ![Git badge](https://img.shields.io/badge/Git-%23202020?style=flat&logo=git) |
 
-<img alt="rokbenko's Stats" src="https://github-readme-stats.vercel.app/api?username=rokbenko&theme=dark&show_icons=true&hide_border=true&count_private=true" />
-<img alt="rokbenko's Top Languages" src="https://rokbenko-stats.vercel.app/api/top-langs/?username=rokbenko&theme=dark&show_icons=true&hide_border=true&layout=compact" />
+<div>
+  <img alt="rokbenko's Stats" src="https://github-readme-stats.vercel.app/api?username=rokbenko&theme=dark&show_icons=true&hide_border=true&count_private=true" />
+  <img alt="rokbenko's Top Languages" src="https://rokbenko-stats.vercel.app/api/top-langs/?username=rokbenko&theme=dark&show_icons=true&hide_border=true&layout=compact" />
+</div>
