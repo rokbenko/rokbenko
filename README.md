@@ -10,7 +10,7 @@ What’s funny is that those two moments found me, not the other way around. �
 
 Today, I work as an <a href="https://www.linkedin.com/in/rokbenko">AI Engineer</a> at a Stealth Startup while also sharing my knowledge through my YouTube channel, <a href="https://www.youtube.com/@rokbenko?sub_confirmation=1" target="_blank">Code AI with Rok</a> 🚀, where I create:
 
-✔️ 100% practical coding tutorials related to AI.<br>
+✅ 100% practical coding tutorials related to AI.<br>
 ❌ 0% theory (without showing the code).<br>
 ❌ 0% fluff.<br>
 ❌ 0% clickbaits.<br>
