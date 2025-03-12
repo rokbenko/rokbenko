@@ -6,16 +6,16 @@ The first was in 2017 during high school, in a 2-hour class on HTML and CSS. My 
 
 The second was in 2022, when I made my first OpenAI API call to the GPT-3 model, which was SOTA at the time. I asked it, “Who’s Einstein?” and was amazed by the response. "How the hell does AI know that???" 🤯 This experience introduced me to the world of AI, where I quickly became an active community contributor. In 2023, I achieved the title of the 🏆 <a href="https://stackoverflow.com/tags/openai-api/topusers" target="_blank">#1 OpenAI API contributor</a> on Stack Overflow, and in 2024, I earned the title of the 🏆 <a href="https://community.crewai.com/leaderboard" target="_blank">#1 CrewAI contributor</a> on the official Discourse forum.
 
-What’s funny is that those two moments found me, not the other way around. 🤔 I came across frontend development by enrolling in an Informatics course, not knowing it included 2 hours of HTML and CSS. Similarly, I first heard about OpenAI while listening to a non-technical podcast, not expecting it to come up.
+After 12 months of job hunting only to be fired after 3 months of getting one as an AI Engineer, I decided to stop WAITING for opportunities and start CREATING opportunities. In March 2025, I stepped on a path of becoming a solopreneur building AI apps in public, having 0 prior experience of shipping apps in production. Feel free to follow my journey on [LinkedIn](https://www.linkedin.com/in/rokbenko) or [X](https://x.com/rokbenko), where I post regular updates. 🔥
 
-Today, I work as an <a href="https://www.linkedin.com/in/rokbenko">AI Engineer</a> at a Stealth Startup while also sharing my knowledge through my YouTube channel, <a href="https://www.youtube.com/@rokbenko?sub_confirmation=1" target="_blank">Code AI with Rok</a> 🚀, where I create:
+As a side project, I'm sharing my knowledge for FREE through my YouTube channel, <a href="https://www.youtube.com/@rokbenko?sub_confirmation=1" target="_blank">Code AI with Rok</a> 🚀, where I create:
 
 ✅ 100% practical coding tutorials related to AI.<br>
 ❌ 0% theory (without showing the code).<br>
 ❌ 0% fluff.<br>
 ❌ 0% clickbaits.<br>
 
-All my work is available in my GitHub repository, <a href="https://github.com/rokbenko/ai-playground">ai-playground</a> 🚀, demonstrating my commitment to both learning and teaching in the tech community.
+All the tutorial code is available in my GitHub repository, <a href="https://github.com/rokbenko/ai-playground">ai-playground</a> 🚀.
 
 <div>
   <img alt="rokbenko's Stats" src="https://github-readme-stats.vercel.app/api?username=rokbenko&theme=dark&show_icons=true&hide_border=true&count_private=true" />
