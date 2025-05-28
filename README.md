@@ -1,23 +1,23 @@
 Hi, I'm Rok! <img src = "./wave.gif" width="20" />
 
-I’m a self-taught developer whose tech journey was defined by two key "wow" moments that shaped my life and led me to pursue a career in tech, even though I completed a Master's in economics. 👇
+I wrote my first line of HTML in 2017 during a 2-hour high school class. Not knowing that you can make a simple website with a single HTML file, I was blown away! I rushed home and started coding every day, making sites with cheap animations and proudly showing them to my family even though I couldn’t tell Java from JavaScript. It didn’t matter. I was hooked. 🤩
 
-The first was in 2017 during high school, in a 2-hour class on HTML and CSS. My class created a basic website and opened it in a browser. “Wait, you can make a website with just one HTML file???” 🤯 That simple realization sparked my curiosity, and I started learning HTML and CSS every day after school.
+Fast-forward a few years. I got a Master’s in economics, but I kept coding. In 2022, I made my first API call to OpenAI’s GPT-3, which was SOTA at the time. Damn! I jumped into the AI rabbit hole like Neo before the red pill even hit his tongue. 💊
 
-The second was in 2022, when I made my first OpenAI API call to the GPT-3 model, which was SOTA at the time. I asked it, “Who’s Einstein?” and was amazed by the response. "How the hell does AI know that???" 🤯 This experience introduced me to the world of AI, where I quickly became an active community contributor. In 2023, I achieved the title of the 🏆 <a href="https://stackoverflow.com/tags/openai-api/topusers" target="_blank">#1 OpenAI API contributor</a> on Stack Overflow, and in 2024, I earned the title of the 🏆 <a href="https://community.crewai.com/leaderboard" target="_blank">#1 CrewAI contributor</a> on the official Discourse forum.
+From 2022 to 2024, I lived on Stack Overflow, helping developers implement the OpenAI API. I became the #1 OpenAI API contributor on Stack Overflow. Hundreds of answers written, thousands of reputation points gained, ∞ hours spent, but that didn't help me land a job. In 2024 I applied for ≈400 job posts. I finally got one as an AI engineer after 12 months. Guess what? I was fired after 1.5 months! That broke me but woke me. I dropped community contributions to 0 overnight. No more free work. No more chasing reputation points. You can't buy groceries with that. 💰
 
-After 12 months of job hunting only to be fired after 3 months of getting one as an AI Engineer, I decided to stop WAITING for opportunities and start CREATING opportunities. In March 2025, I stepped on a path of becoming a solopreneur building AI apps in public, having 0 prior experience of shipping apps in production. Feel free to follow my journey on [LinkedIn](https://www.linkedin.com/in/rokbenko) or [X](https://x.com/rokbenko), where I post regular updates. 🔥
+In 2025, I stepped on a path of becoming a solopreneur, building apps with AI in public. Prior to that I never shipped ANYTHING in production. Not a single landing page was deployed. Nothing was ever good enough. The term MVP was not in my vocabulary. 😬
 
-As a side project, I'm sharing my knowledge for FREE through my YouTube channel, <a href="https://www.youtube.com/@rokbenko?sub_confirmation=1" target="_blank">Code AI with Rok</a> 🚀, where I create:
+Now I'm all in. Like, ALL IN. I’m not Pieter Levels, Marc Lou, or [insert your favorite indie developer]. Yet! But I started launching apps. The identity shift from “community contributor” to “solopreneur” was brutal. It’s not easy to lose a crown, whatever the title you got the crown for. A crown is a crown. But fu€k it! I’d rather wear a battle-worn one I earned than a shiny one that got me nowhere. I’m building in public now: wins, losses, all of it. 🔥
 
-✅ 100% practical coding tutorials related to AI.<br>
-❌ 0% theory (without showing the code).<br>
-❌ 0% fluff.<br>
-❌ 0% clickbaits.<br>
+If you’re into raw progress over polished bulls#it, connect with me on [LinkedIn](https://www.linkedin.com/in/rokbenko) or follow me on [X](https://www.x.com/rokbenko). 🚀
 
-All the tutorial code is available in my GitHub repository, <a href="https://github.com/rokbenko/ai-playground">ai-playground</a> 🚀.
+2025:
+
+✅ [PodcastPrepper](https://www.podcast-prepper.com/)<br>
+🔁 [CrossPoster](https://www.producthunt.com/products/crossposter)
 
 <div>
-  <img alt="rokbenko's Stats" src="https://github-readme-stats.vercel.app/api?username=rokbenko&theme=dark&show_icons=true&hide_border=true&count_private=true" />
-  <img alt="rokbenko's Top Languages" src="https://rokbenko-stats.vercel.app/api/top-langs/?username=rokbenko&theme=dark&show_icons=true&hide_border=true&layout=compact" />
+  <img alt="rokbenko's stats" src="https://github-readme-stats.vercel.app/api?username=rokbenko&theme=dark&show_icons=true&hide_border=true&count_private=true" />
+  <img alt="rokbenko's top languages" src="https://rokbenko-stats.vercel.app/api/top-langs/?username=rokbenko&theme=dark&show_icons=true&hide_border=true&layout=compact" />
 </div>
