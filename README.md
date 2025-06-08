@@ -14,8 +14,9 @@ If you’re into raw progress over polished bulls#it, connect with me on [Linked
 
 2025:
 
-✅ [PodcastPrepper](https://www.podcast-prepper.com/)<br>
-🔄 [CrossPoster](https://www.producthunt.com/products/crossposter)
+- 🎙️ [PodcastPrepper](https://www.podcast-prepper.com/): Helps podcast hosts reduce guest preparation effort by 95%+
+  - Revenue: $8 in total
+  - Note: My first $1 online with SaaS! 🎉
 
 <div>
   <img alt="rokbenko's stats" src="https://github-readme-stats.vercel.app/api?username=rokbenko&theme=dark&show_icons=true&hide_border=true&count_private=true" />
