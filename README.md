@@ -12,11 +12,13 @@ Now I'm all in. Like, ALL IN. I’m not Pieter Levels, Marc Lou, or [insert your
 
 If you’re into raw progress over polished bulls#it, connect with me on [LinkedIn](https://www.linkedin.com/in/rokbenko) or follow me on [X](https://www.x.com/rokbenko). 🚀
 
-2025:
+Apps:
 
-- 🎙️ [PodcastPrepper](https://www.podcast-prepper.com/): Helps podcast hosts reduce guest preparation effort by 95%+
-  - Revenue: $8 in total
-  - Milestone: My first $1 online with SaaS! 🎉
+- 🎙️ [PodcastPrepper](https://www.podcast-prepper.com/) (March 2025): Helps podcast hosts reduce guest preparation effort by 95%+
+
+Milestones:
+
+- April 3, 2025: My first $1 online with SaaS! 🎉
 
 <div>
   <img alt="rokbenko's stats" src="https://github-readme-stats.vercel.app/api?username=rokbenko&theme=dark&show_icons=true&hide_border=true&count_private=true" />
