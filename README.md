@@ -10,7 +10,7 @@ In 2025, I stepped on a path of becoming a solopreneur, building apps with AI in
 
 Now I'm all in. Like, ALL IN. I’m not Pieter Levels, Marc Lou, or [insert your favorite indie developer]. Yet! But I started launching apps. The identity shift from “community contributor” to “solopreneur” was brutal. It’s not easy to lose a crown, whatever the title you got the crown for. A crown is a crown. But fu€k it! I’d rather wear a battle-worn one I earned than a shiny one that got me nowhere. I’m building in public now: wins, losses, all of it. 🔥
 
-If you’re into raw progress over polished bulls#it, connect with me on [LinkedIn](https://www.linkedin.com/in/rokbenko) or follow me on [X](https://www.x.com/rokbenko). 🚀
+If you’re into raw progress over polished bull$hit, connect with me on [LinkedIn](https://www.linkedin.com/in/rokbenko) or follow me on [X](https://www.x.com/rokbenko). 🚀
 
 Apps:
 
