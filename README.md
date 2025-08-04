@@ -15,6 +15,7 @@ If you’re into raw progress over polished bull$hit, connect with me on [Linked
 Startups:
 
 - 🎙️ [PodcastPrepper](https://www.podcast-prepper.com/) (March 2025): Helps podcast hosts reduce guest preparation effort by 95%+
+- 🚀 [AutoLaunched](https://www.autolaunched.com/) (August 2025): List your startup on directories 10x cheaper and 1,000x faster
 
 Milestones:
 
