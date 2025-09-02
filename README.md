@@ -24,8 +24,3 @@ Milestones:
 
 - April 3, 2025: My first $1 online earned with SaaS! 🎉
 - July 6, 2025: My first custom app sale for $3,000! 🎉
-
-<div>
-  <img alt="rokbenko's stats" src="https://github-readme-stats.vercel.app/api?username=rokbenko&theme=dark&show_icons=true&hide_border=true&count_private=true" />
-  <img alt="rokbenko's top languages" src="https://rokbenko-stats.vercel.app/api/top-langs/?username=rokbenko&theme=dark&show_icons=true&hide_border=true&layout=compact" />
-</div>
