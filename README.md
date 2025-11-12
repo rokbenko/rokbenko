@@ -16,9 +16,9 @@ If you’re into raw progress over polished bull$hit, connect with me on [Linked
 
 Startups:
 
-- 🎙️ [PodcastPrepper](https://www.podcast-prepper.com/) (March 2025): Reduces podcast guest preparation effort by 95%+
-- 🚀 [AutoLaunched](https://www.autolaunched.com/) (August 2025): Launches a startup 10x cheaper and 1,000x faster
-- 🤑 [r/KaChing](https://www.rkaching.com/) (August 2025): Generates startup ideas that people actually need
+- 🎙️ [PodcastPrepper](https://www.podcast-prepper.com/) (March 2025): Cuts podcast preparation effort by 95%+
+- 🚀 [AutoLaunched](https://www.autolaunched.com/) (August 2025): Launches startup 1,000x faster
+- 🤑 [r/KaChing](https://www.rkaching.com/) (August 2025): Turns Reddit rants into startup ideas
 
 Milestones:
 
