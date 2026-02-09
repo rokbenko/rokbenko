@@ -16,11 +16,13 @@ If you’re into raw progress over polished bull$hit, connect with me on [Linked
 
 Startups:
 
-- [PodcastPrepper](https://www.podcast-prepper.com/) (March 2025): Cuts podcast preparation effort by 95%+ → $6 TLR 🪦 R.I.P.
-- [AutoLaunched](https://www.autolaunched.com/) (August 2025): Launches startup 1,000x faster → $300 TLR (100% refunded) 🪦 R.I.P.
-- [r/KaChing](https://www.rkaching.com/) (August 2025): Turns Reddit rants into startup ideas → $0 TLR 🪦 R.I.P.
-- RevVer (December 2025): Verifies startup revenue for VCs with <1-minute setup → $0 TLR 🪦 R.I.P.
-- InfringeGuard (January 2026): Monitors the web 24/7 for IP infringements and delivers daily alerts → $0 TLR 🪦 R.I.P.
+1. [PodcastPrepper](https://www.podcast-prepper.com/) (March 2025): Cuts podcast preparation effort by 95%+ → $6 TLR 🪦 R.I.P.
+2. [AutoLaunched](https://www.autolaunched.com/) (August 2025): Launches startup 1,000x faster → $300 TLR (100% refunded) 🪦 R.I.P.
+3. [r/KaChing](https://www.rkaching.com/) (August 2025): Turns Reddit rants into startup ideas → $0 TLR 🪦 R.I.P.
+4. RevVer (December 2025): Verifies startup revenue for VCs with <1-minute setup → $0 TLR 🪦 R.I.P.
+5. InfringeGuard (January 2026): Monitors the web 24/7 for IP infringements and delivers daily alerts → $0 TLR 🪦 R.I.P.
+6. AniMiles (February 2026): Helps travel vloggers turn stories into animated visuals with templates → $0 TLR 🪦 R.I.P.
+7. [remotion.directory](https://www.remotion.directory/) (February 2026): Gathers the Internet's best Remotion animation examples with prompts in one place
 
 Milestones:
 
