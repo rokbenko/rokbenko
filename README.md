@@ -22,7 +22,7 @@ Startups:
 4. RevVer (December 2025): Verifies startup revenue for VCs with <1-minute setup → $0 TLR 🪦 R.I.P.
 5. InfringeGuard (January 2026): Monitors the web 24/7 for IP infringements and delivers daily alerts → $0 TLR 🪦 R.I.P.
 6. AniMiles (February 2026): Helps travel vloggers turn stories into animated visuals with templates → $0 TLR 🪦 R.I.P.
-7. [remotion.directory](https://www.remotion.directory/) (February 2026): Gathers the Internet's best Remotion animation examples with prompts in one place
+7. [remotion.directory](https://www.remotion.directory/) (February 2026): Gathers the Internet's best Remotion animation examples with prompts
 
 Milestones:
 
