@@ -23,7 +23,7 @@ Startups:
 5. InfringeGuard (January 2026): Monitors the web 24/7 for IP infringements and delivers daily alerts → $0 TLR 🪦 R.I.P.
 6. AniMiles (February 2026): Helps travel vloggers turn stories into animated visuals with templates → $0 TLR 🪦 R.I.P.
 7. remotion.directory (February 2026): Gathers the Internet's best Remotion animation examples with prompts → $0 TLR 🪦 R.I.P.
-8. [SweatyOutreach](https://www.sweatyoutreach.com/) (March 2026): Gets 25x more leads than cold outreach
+8. [SweatyOutreach](https://www.sweatyoutreach.com/) (March 2026): Gets 25x more deals than cold outreach
 
 Milestones:
 
