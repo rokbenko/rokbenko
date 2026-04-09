@@ -16,15 +16,16 @@ If you’re into raw progress over polished bull$hit, connect with me on [Linked
 
 Startups:
 
-1. PodcastPrepper (March 2025): Cuts podcast preparation effort by 95%+ → $6 TLR 🪦 R.I.P.
-2. AutoLaunched (August 2025): Launches startup 1,000x faster → $300 TLR (100% refunded) 🪦 R.I.P.
-3. r/KaChing (August 2025): Turns Reddit rants into startup ideas → $0 TLR 🪦 R.I.P.
-4. RevVer (December 2025): Verifies startup revenue for VCs with <1-minute setup → $0 TLR 🪦 R.I.P.
-5. InfringeGuard (January 2026): Monitors the web 24/7 for IP infringements and delivers daily alerts → $0 TLR 🪦 R.I.P.
-6. AniMiles (February 2026): Helps travel vloggers turn stories into animated visuals with templates → $0 TLR 🪦 R.I.P.
-7. remotion.directory (February 2026): Gathers the Internet's best Remotion animation examples with prompts → $0 TLR 🪦 R.I.P.
-8. [SweatyOutreach](https://www.sweatyoutreach.com/) (March 2026): Gets 25x more deals than cold outreach
-9. [CROtomate](https://www.github.com/rokbenko/CROtomate) (March 2026): Turns vibecoded websites into self-improving conversion machines
+1. PodcastPrepper (Mar 2025): Cut podcast preparation effort by 95%+ → $6 TLR 🪦 R.I.P.
+2. AutoLaunched (Aug 2025): Launch startup 1,000x faster → $300 TLR (100% refunded) 🪦 R.I.P.
+3. r/KaChing (Aug 2025): Turn Reddit rants into startup ideas → $0 TLR 🪦 R.I.P.
+4. RevVer (Dec 2025): Verify startup revenue for VCs with <1-minute setup → $0 TLR 🪦 R.I.P.
+5. InfringeGuard (Jan 2026): Monitor the web 24/7 for IP infringements and get daily alerts → $0 TLR 🪦 R.I.P.
+6. AniMiles (Feb 2026): Turn travel vlogging stories into animated visuals with templates → $0 TLR 🪦 R.I.P.
+7. remotion.directory (Feb 2026): See the Internet's best Remotion animation examples with prompts → $0 TLR 🪦 R.I.P.
+8. [AI Consulting by Rok](https://www.rokbenko.com/consulting) (Mar 2026): Increase business productivity 3x with AI
+9. [SweatyOutreach](https://www.sweatyoutreach.com/) (Mar 2026): Get 25x more deals than cold outreach
+10. [CROtomate](https://www.github.com/rokbenko/CROtomate) (Mar 2026): Turn websites into self-improving conversion machines
 
 Milestones:
 
