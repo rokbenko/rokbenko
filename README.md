@@ -23,10 +23,10 @@ Startups:
 5. InfringeGuard (Jan 2026): Monitor the web 24/7 for IP infringements and get daily alerts → $0 TLR 🪦 R.I.P.
 6. AniMiles (Feb 2026): Turn travel vlogging stories into animated visuals with templates → $0 TLR 🪦 R.I.P.
 7. remotion.directory (Feb 2026): See the Internet's best Remotion animation examples with prompts → $0 TLR 🪦 R.I.P.
-8. [AI with Rok](https://www.rokbenko.com/consulting) (Mar 2026): Increase business productivity 3x with AI
-9. [RingRealtor](https://www.ringrealtor.com) (Mar 2026): Never miss a deal again because of a missed call
+8. 🔄 (Mar 2026)
+9. 🔄 (Mar 2026)
 
 Milestones:
 
-- April 3, 2025: My first $1 online earned with SaaS!
-- July 6, 2025: My first custom app sale for $3,000!
+- April 3, 2025: My first $1 online earned with SaaS! 🎉
+- July 6, 2025: My first custom app sale for $3,000! 🎉
