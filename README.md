@@ -21,10 +21,12 @@ Startups:
 3. r/KaChing (Aug 2025): Turn Reddit rants into startup ideas → $0 TLR 🪦 R.I.P.
 4. RevVer (Dec 2025): Verify startup revenue for VCs with <1-minute setup → $0 TLR 🪦 R.I.P.
 5. InfringeGuard (Jan 2026): Monitor the web 24/7 for IP infringements and get daily alerts → $0 TLR 🪦 R.I.P.
-6. AniMiles (Feb 2026): Turn travel vlogging stories into animated visuals with templates → $0 TLR 🪦 R.I.P.
-7. remotion.directory (Feb 2026): See the Internet's best Remotion animation examples with prompts → $0 TLR 🪦 R.I.P.
-8. 🔄 (Mar 2026)
+6. AniMiles (Feb 2026): Turn travel vlogging into animated visuals with templates → $0 TLR 🪦 R.I.P.
+7. remotion.directory (Feb 2026): See the Internet's best Remotion examples with prompts → $0 TLR 🪦 R.I.P.
+8. SweatyOutreach (Mar 2026): Get 25x more deals than cold outreach → $0 TLR 🪦 R.I.P.
 9. 🔄 (Mar 2026)
+10. 🔄 (Apr 2026)
+11. 🔄 (Apr 2026)
 
 Milestones:
 
