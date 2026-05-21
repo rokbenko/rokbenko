@@ -26,9 +26,9 @@ Startups:
 8. SweatyOutreach (Mar 2026): Get 25x more deals than cold outreach → $0 TLR 🪦 R.I.P.
 9. 🔄 (Mar 2026)
 10. 🔄 (Apr 2026)
-11. 🔄 (Apr 2026)
 
 Milestones:
 
-- April 3, 2025: My first $1 online earned with SaaS! 🎉
-- July 6, 2025: My first custom app sale for $3,000! 🎉
+- Apr 2025: My first $1 online earned with SaaS! 🎉
+- Jul 2025: My first custom app sale for $3,000! 🎉
+- Aug 2025: My first 10 paying customers with SaaS! 🎉
