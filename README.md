@@ -29,6 +29,6 @@ Startups:
 
 Milestones:
 
-- Apr 2025: My first $1 online earned with SaaS! 🎉
-- Jul 2025: My first custom app sale for $3,000! 🎉
-- Aug 2025: My first 10 paying customers with SaaS! 🎉
+- Apr 2025: My first $1 online earned with SaaS 🎉
+- Jul 2025: My first custom app sale for $3,000 🎉
+- Aug 2025: My first 10 paying customers with SaaS 🎉
