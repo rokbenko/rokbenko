@@ -24,11 +24,12 @@ Startups:
 6. AniMiles (Feb 2026): Turn travel vlogging into animated visuals with templates → $0 TLR 🪦 R.I.P.
 7. remotion.directory (Feb 2026): See the Internet's best Remotion examples with prompts → $0 TLR 🪦 R.I.P.
 8. SweatyOutreach (Mar 2026): Get 25x more deals than cold outreach → $0 TLR 🪦 R.I.P.
-9. 🔄 (Mar 2026)
-10. 🔄 (Apr 2026)
+9. CROtomate (Apr 2026): Turn websites into self-improving conversion machines 🔄
+10. TBA 🔄 (Apr 2026)
+11. TBA 🔄 (Apr 2026)
 
 Milestones:
 
-- Apr 2025: My first $1 online earned with SaaS 🎉
-- Jul 2025: My first custom app sale for $3,000 🎉
-- Aug 2025: My first 10 paying customers with SaaS 🎉
+- Apr 2025: First $1 earned online 🎉
+- Jul 2025: First custom app sale 🎉
+- Aug 2025: First 10 paying customers 🎉
