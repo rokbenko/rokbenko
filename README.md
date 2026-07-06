@@ -24,9 +24,8 @@ Startups:
 6. AniMiles (Feb 2026): Turn travel vlogging into animated visuals with templates → $0 TLR 🪦 R.I.P.
 7. remotion.directory (Feb 2026): See the Internet's best Remotion examples with prompts → $0 TLR 🪦 R.I.P.
 8. SweatyOutreach (Mar 2026): Get 25x more deals than cold outreach → $0 TLR 🪦 R.I.P.
-9. CROtomate (Apr 2026): Turn websites into self-improving conversion machines 🔄
+9. TBA 🔄 (Apr 2026)
 10. TBA 🔄 (Apr 2026)
-11. TBA 🔄 (Apr 2026)
 
 Milestones:
 
