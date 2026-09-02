@@ -12,23 +12,21 @@ In 2025, I stepped on a path of becoming a solopreneur, building apps with AI in
 
 Now I’m all in. Like, kicking a$$ 24/7. I’m not [insert your favorite indie developer]. Yet! But I started launching apps. The identity shift from “community contributor” to “solopreneur” was brutal. It’s not easy to lose a crown, whatever the title you got the crown for. But fu€k it! I’d rather wear a battle-worn one than a shiny one that got me nowhere.
 
+These days, that crown’s shaped like a duck. [quackd](https://github.com/rokbenko/quackd) gives Hugging Face x Pollen Robotics’s Microduck robot an LLM brain. Describe a task in plain English, and the LLM sequences the robot’s existing skills to do it. Local LLMs work too (Ollama, vLLM, llama.cpp), it’s Apache-2.0, and it’s on PyPI. The first thing I’ve built that people actually starred instead of ignored.
+
 If you’re into raw progress over polished bull$hit, connect with me on [LinkedIn](https://www.linkedin.com/in/rokbenko) or follow me on [X](https://www.x.com/intent/follow?screen_name=rokbenko), where I share my journey.
 
 Startups:
 
-1. PodcastPrepper (Mar 2025): Cut podcast preparation effort by 95%+ → $6 TLR 🪦 R.I.P.
-2. AutoLaunched (Aug 2025): Launch startup 1,000x faster → $300 TLR (100% refunded) 🪦 R.I.P.
-3. r/KaChing (Aug 2025): Turn Reddit rants into startup ideas → $0 TLR 🪦 R.I.P.
-4. RevVer (Dec 2025): Verify startup revenue for VCs with <1-minute setup → $0 TLR 🪦 R.I.P.
-5. InfringeGuard (Jan 2026): Monitor the web 24/7 for IP infringements and get daily alerts → $0 TLR 🪦 R.I.P.
-6. AniMiles (Feb 2026): Turn travel vlogging into animated visuals with templates → $0 TLR 🪦 R.I.P.
-7. remotion.directory (Feb 2026): See the Internet's best Remotion examples with prompts → $0 TLR 🪦 R.I.P.
-8. SweatyOutreach (Mar 2026): Get 25x more deals than cold outreach → $0 TLR 🪦 R.I.P.
-9. TBA 🔄 (Apr 2026)
-10. TBA 🔄 (Apr 2026)
+1. PodcastPrepper (Mar 2025): Cut podcast preparation effort by 95%+ → $6 TLR R.I.P.
+2. AutoLaunched (Aug 2025): Launch startup 1,000x faster → $300 TLR (100% refunded) R.I.P.
+3. r/KaChing (Aug 2025): Turn Reddit rants into startup ideas → $0 TLR R.I.P.
+4. RevVer (Dec 2025): Verify startup revenue for VCs with <1-minute setup → $0 TLR R.I.P.
+5. InfringeGuard (Jan 2026): Monitor the web 24/7 for IP infringements and get daily alerts → $0 TLR R.I.P.
+6. AniMiles (Feb 2026): Turn travel vlogging into animated visuals with templates → $0 TLR R.I.P.
+7. remotion.directory (Feb 2026): See the Internet's best Remotion examples with prompts → $0 TLR R.I.P.
+8. SweatyOutreach (Mar 2026): Get 25x more deals than cold outreach → $0 TLR R.I.P.
 
-Milestones:
+(Stopped counting failed startups after the 8th one.)
 
-- Apr 2025: First $1 earned online 🎉
-- Jul 2025: First custom app sale 🎉
-- Aug 2025: First 10 paying customers 🎉
+?. [quackd](https://github.com/rokbenko/quackd) (Aug 2026): Control your Microduck robot with human language via an LLM
