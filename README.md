@@ -1,4 +1,4 @@
-<img src="./banner.png" />
+<img src="./banner_gh.png" />
 
 Hi, I’m Rok! <img src="./wave.gif" width="20" />
 
