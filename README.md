@@ -12,7 +12,7 @@ In 2025, I stepped on a path of becoming a solopreneur, building apps with AI in
 
 Now I’m all in. Like, kicking a$$ 24/7. I’m not [insert your favorite indie developer]. Yet! But I started launching apps. The identity shift from “community contributor” to “solopreneur” was brutal. It’s not easy to lose a crown, whatever the title you got the crown for. But fu€k it! I’d rather wear a battle-worn one than a shiny one that got me nowhere.
 
-These days, that crown’s shaped like a duck. [quackd](https://github.com/rokbenko/quackd) gives Hugging Face x Pollen Robotics’s Microduck robot an LLM brain. Describe a task in plain English, and the LLM sequences the robot’s existing skills to do it. Local LLMs work too (Ollama, vLLM, llama.cpp), it’s Apache-2.0, and it’s on PyPI. The first thing I’ve built that people actually starred instead of ignored.
+These days, that crown’s shaped like a duck. [Quackd](https://github.com/rokbenko/quackd) gives Hugging Face x Pollen Robotics’s Microduck robot an LLM brain. Describe a task in plain English, and the LLM sequences the robot’s existing skills to do it. Local LLMs work too (Ollama, vLLM, llama.cpp), it’s Apache-2.0, and it’s on PyPI. The first thing I’ve built that people actually starred instead of ignored.
 
 If you’re into raw progress over polished bull$hit, connect with me on [LinkedIn](https://www.linkedin.com/in/rokbenko) or follow me on [X](https://www.x.com/intent/follow?screen_name=rokbenko), where I share my journey.
 
@@ -27,6 +27,6 @@ Startups:
 7. remotion.directory (Feb 2026): See the Internet's best Remotion examples with prompts → $0 TLR R.I.P.
 8. SweatyOutreach (Mar 2026): Get 25x more deals than cold outreach → $0 TLR R.I.P.
 
-(Stopped counting failed startups after the 8th one.)
+(Stopped counting after the 8th failed one.)
 
-?. [quackd](https://github.com/rokbenko/quackd) (Aug 2026): Control your Microduck robot with human language via an LLM
+?. [Quackd](https://github.com/rokbenko/quackd) (Aug 2026): Human language communication layer for robots to work together
