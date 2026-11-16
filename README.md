@@ -29,4 +29,4 @@ Startups:
 
 (Stopped counting after the 8th failed one.)
 
-?. [Quackd](https://github.com/rokbenko/quackd) (Aug 2026): Human language communication layer for robots to work together
+?. [Quackd](https://www.quackd.org/) (Aug 2026): Turn your robot duck from a toy into a companion you can talk to
